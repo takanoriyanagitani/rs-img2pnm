@@ -9,7 +9,7 @@ repository = "https://github.com/takanoriyanagitani/rs-img2pnm"
 homepage = "https://github.com/takanoriyanagitani/rs-img2pnm"
 documentation = "https://docs.rs/rs-img2pnm/latest"
 keywords = ["image", "pnm", "pam", "wasi", "convert"]
-categories = ["images"]
+categories = ["Images"]
 
 exclude = [
     "opt.wasm",
