@@ -3,7 +3,17 @@ name = "rs-img2pnm"
 version = "0.1.0"
 edition = "2024"
 
+description = "Converts the image to a portable image."
+license = "Apache-2.0"
+repository = "https://github.com/takanoriyanagitani/rs-img2pnm"
+homepage = "https://github.com/takanoriyanagitani/rs-img2pnm"
+documentation = "https://docs.rs/rs-img2pnm/latest"
+keywords = ["image", "pnm", "pam", "wasi", "convert"]
+categories = ["image"]
+
 exclude = [
+    "opt.wasm",
+    "rs-img2pnm.wasm",
 ]
 
 [lints.rust]
